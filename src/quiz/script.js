@@ -11,7 +11,7 @@ formulario.addEventListener("submit", function(evento) {
         "SEGURANÇA ORBITAL",
         "PYTHON",
         "TEMPO REAL",
-        "EMPRESA AEROESPACIAIS",
+        "EMPRESAS AEROESPACIAIS",
         "EDGE COMPUTING",
         "SUSTENTABILIDADE",
     ];
